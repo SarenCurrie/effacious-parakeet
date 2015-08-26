@@ -4,9 +4,10 @@ Presented by SESA
 
 ## Benefits
 
-- No usds
+- No usbs
 - No emails
 - No losing all your code when your computer breaks
+- Host your own website
 
 ## Useful resources
 

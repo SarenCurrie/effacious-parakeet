@@ -1,6 +1,6 @@
 # GIT Is Really Good
 
-Presented by SESA
+Presented by SESA (Software Engineering Students Association)
 
 ## Benefits
 
